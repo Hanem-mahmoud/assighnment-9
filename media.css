@@ -1,0 +1,18 @@
+@media (max-width: 657px) {
+.navbar-nav {
+  
+    display: flex;
+    flex-direction: row !important;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.nav-block{
+    display: none;
+
+}
+ 
+.dis-none{
+    display: none !important;
+}
+}
